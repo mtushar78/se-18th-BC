@@ -25,7 +25,7 @@ Check your current changes and then add and commit them.
 ```
         git add .
         git commit -m "a relevant message"
-        git push
+        git push 
 
 ```
 
