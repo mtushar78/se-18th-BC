@@ -15,6 +15,7 @@ just run `git pull` and then `npm i` finally `npm start`
 # make your own branch
 
 put yourname or id as your branch name
+
 ```
         git checkout -b branch_name
 
