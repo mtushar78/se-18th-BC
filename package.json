@@ -1,0 +1,16 @@
+{
+  "name": "pms",
+  "version": "1.0.0",
+  "description": "Pharmacy management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Maksudul Hasan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
