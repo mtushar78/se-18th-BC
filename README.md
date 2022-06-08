@@ -26,7 +26,9 @@ Check your current changes and then add and commit them.
 ```
         git add .
         git commit -m "a relevant message"
-        git push 
+        git push --set-upstream origin development //this is for the first time after creating the branch
+
+        git push //this is for the rest of the cases 
 
 ```
 
