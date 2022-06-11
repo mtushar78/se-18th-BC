@@ -33,6 +33,7 @@ Check your current changes and then add and commit them.
 
 # Task for next class (11-06-2022)
 * Install xampp in everyone's PC
+* Go to localhost:80 -> click phpMyAdmin
 * Create a database named "pms"
 * Create a table named "users"
 * The columns for the users table are -> `id` (auto incrementing, PK), `name`, `email`, `address`, `password`
